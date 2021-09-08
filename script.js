@@ -37,6 +37,20 @@ function setup() {
   ball6 = new Ball(10,10,30,30,10,35);
   ball7 = new Ball(10,10,30,30,11,40);
   ball8 = new Ball(10,10,30,30,12,45);
+  ball9 = new Ball(10,10,30,30,13,50);
+  ball10 = new Ball(10,10,30,30,14,55);
+  ball11 = new Ball(10,10,30,30,15,60);
+  ball12 = new Ball(10,10,30,30,16,65);
+  ball13 = new Ball(10,10,30,30,17,70);
+  ball14 = new Ball(10,10,30,30,18,75);
+  ball15 = new Ball(10,10,30,30,19,80);
+  ball16 = new Ball(10,10,30,30,20,85);
+  ball17 = new Ball(10,10,30,30,21,90);
+  ball18 = new Ball(10,10,30,30,22,95);
+  ball19 = new Ball(10,10,30,30,23,100);
+  ball20 = new Ball(10,10,30,30,24,105);
+   ball21 = new Ball(10,10,30,30,25,110);
+
 }
 
 function draw() {
@@ -50,4 +64,18 @@ function draw() {
   ball6.drawBall();
   ball7.drawBall();
   ball8.drawBall();
+  ball9.drawBall();
+  ball10.drawBall();
+  ball11.drawBall();
+  ball12.drawBall();
+  ball13.drawBall();
+  ball14.drawBall();
+  ball15.drawBall();
+  ball16.drawBall();
+  ball17.drawBall();
+  ball18.drawBall();
+  ball19.drawBall();
+  ball20.drawBall();
+  ball21.drawBall();
+  
 }
